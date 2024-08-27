@@ -5,7 +5,7 @@ from tkinter import ttk
 from tkinter.messagebox import showerror
 
 # Api requests
-api_key = "7526d0c535416d1aa8d8477c"
+api_key = " "            # Enter API Key
 url = f'https://v6.exchangerate-api.com/v6/{api_key}/latest/USD'
 response = requests.get(f"{url}").json()
 currencies = dict(response['conversion_rates'])
