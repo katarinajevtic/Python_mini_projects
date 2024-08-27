@@ -4,3 +4,4 @@ A command-line application that retrieves interesting trivia facts about numbers
 ## Features
 + Number Trivia: Fetches trivia facts for any given number.
 + Interactive CLI: User-friendly command-line interface.
++ Uses `numbersapi.com` API for fetching numbers facts
