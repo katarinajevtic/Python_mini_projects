@@ -11,3 +11,5 @@ To get started with any project:
 + Follow the instructions provided in the README.md file for that project.
 + Ensure you have Python installed on your machine.
 + Run the Python scripts as instructed.
+## License
+This project is licensed under the MIT License. See the [LICENCE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for more details.
